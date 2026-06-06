@@ -1,6 +1,8 @@
 # The-Wall
+**Security perimeter · Harmony Labs**
 
-Resonance firewall. Hard mathematical boundary. TLA+ verified.
+Security perimeter · Network firewall and DDoS defense
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
